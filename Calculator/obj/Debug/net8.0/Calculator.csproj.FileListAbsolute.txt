@@ -1,0 +1,14 @@
+c:\balta\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\balta\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\balta\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+c:\balta\Calculator\bin\Debug\net8.0\Calculator.dll
+c:\balta\Calculator\bin\Debug\net8.0\Calculator.pdb
+c:\balta\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\balta\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+c:\balta\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+c:\balta\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+c:\balta\Calculator\obj\Debug\net8.0\Calculator.dll
+c:\balta\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+c:\balta\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\balta\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\balta\Calculator\obj\Debug\net8.0\ref\Calculator.dll
