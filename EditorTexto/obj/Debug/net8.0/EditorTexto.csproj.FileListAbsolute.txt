@@ -1,0 +1,15 @@
+C:\balta\EditorTexto\bin\Debug\net8.0\EditorTexto.exe
+C:\balta\EditorTexto\bin\Debug\net8.0\EditorTexto.deps.json
+C:\balta\EditorTexto\bin\Debug\net8.0\EditorTexto.runtimeconfig.json
+C:\balta\EditorTexto\bin\Debug\net8.0\EditorTexto.dll
+C:\balta\EditorTexto\bin\Debug\net8.0\EditorTexto.pdb
+C:\balta\EditorTexto\obj\Debug\net8.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\balta\EditorTexto\obj\Debug\net8.0\EditorTexto.AssemblyInfoInputs.cache
+C:\balta\EditorTexto\obj\Debug\net8.0\EditorTexto.AssemblyInfo.cs
+C:\balta\EditorTexto\obj\Debug\net8.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\balta\EditorTexto\obj\Debug\net8.0\EditorTexto.sourcelink.json
+C:\balta\EditorTexto\obj\Debug\net8.0\EditorTexto.dll
+C:\balta\EditorTexto\obj\Debug\net8.0\refint\EditorTexto.dll
+C:\balta\EditorTexto\obj\Debug\net8.0\EditorTexto.pdb
+C:\balta\EditorTexto\obj\Debug\net8.0\EditorTexto.genruntimeconfig.cache
+C:\balta\EditorTexto\obj\Debug\net8.0\ref\EditorTexto.dll
