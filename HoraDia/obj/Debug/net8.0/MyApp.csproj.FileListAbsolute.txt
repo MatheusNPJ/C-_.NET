@@ -1,0 +1,15 @@
+C:\balta\MyApp\bin\Debug\net8.0\MyApp.exe
+C:\balta\MyApp\bin\Debug\net8.0\MyApp.deps.json
+C:\balta\MyApp\bin\Debug\net8.0\MyApp.runtimeconfig.json
+C:\balta\MyApp\bin\Debug\net8.0\MyApp.dll
+C:\balta\MyApp\bin\Debug\net8.0\MyApp.pdb
+C:\balta\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\balta\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+C:\balta\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+C:\balta\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+C:\balta\MyApp\obj\Debug\net8.0\MyApp.sourcelink.json
+C:\balta\MyApp\obj\Debug\net8.0\MyApp.dll
+C:\balta\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+C:\balta\MyApp\obj\Debug\net8.0\MyApp.pdb
+C:\balta\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
+C:\balta\MyApp\obj\Debug\net8.0\ref\MyApp.dll
